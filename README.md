@@ -9,7 +9,7 @@ O projeto é composto por três páginas principais:
 
 1. **index.html** - A página inicial do site. Aqui, os visitantes podem encontrar uma introdução ao universo de FNAF e links para outras páginas.
 2. **criador.html** - Página dedicada ao criador do universo FNAF, **Scott Cawthon**. Nessa página, você pode encontrar informações sobre sua carreira e como ele criou o universo FNAF.
-3. **personagens.html** - Página com informações sobre os principais personagens do jogo. Cada personagem tem uma descrição detalhada e sua história dentro do universo de FNAF.
+3. **personagens.html** - Página com informações sobre os principais personagens do jogo. Cada personagem tem uma descrição dentro do universo de FNAF.
 
 ## Tecnologias Utilizadas
 
@@ -28,4 +28,5 @@ O projeto é composto por três páginas principais:
 
 
 <!-- Código feito por Manuela Karpinski -->
+
 
